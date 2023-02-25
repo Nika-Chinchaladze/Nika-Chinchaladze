@@ -7,6 +7,8 @@
 - 💬 Ask me about **Python, SQL**
 
 - 📫 How to reach me **nika2019chinchaladze@gmail.com**
+- <a href="https://www.linkedin.com/in/nika-chinchaladze-22a22a247/">Check my Linkedin profile</a>
+- <a href="https://www.youtube.com/@chincho-chincho/playlists">Check my youtube channel</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
