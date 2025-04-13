@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nika Chinchaladze</h1>
-<h3 align="center">A Junior Software Tester from Georgia</h3>
+<h3 align="center">Senior Test Automation Engineer</h3>
 
-- 🌱 I’m currently learning **Vitest and Cypress**
+- 🌱 I’m currently learning **Mobile Automation**
 
-- 💬 Ask me about **Software Testing**
+- 💬 Ask me about **Test Automation**
 
-- 📫 How to reach me **nika2019chinchaladze@gmail.com**
-- <a href="https://www.linkedin.com/in/nika-chinchaladze-22a22a247/">Check my Linkedin profile</a>
+- 📫 How to reach me **nikachinchaladze278@gmail.com**
+- <a href="https://www.linkedin.com/in/nika-chinchaladze-323897349/">Check my Linkedin profile</a>
 - <a href="https://www.youtube.com/@chincho-chincho/playlists">Check my youtube channel</a>
 
 <h3 align="left">Connect with me:</h3>
