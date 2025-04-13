@@ -6,8 +6,8 @@
 - 💬 Ask me about **Test Automation**
 
 - 📫 How to reach me **nikachinchaladze278@gmail.com**
-- <a href="https://www.linkedin.com/in/nika-chinchaladze-323897349/">Check my Linkedin profile</a>
-- <a href="https://www.youtube.com/@chincho-chincho/playlists">Check my youtube channel</a>
+- <a href="https://www.linkedin.com/in/nika-chinchaladze-323897349/" target="_blank">Check my Linkedin profile</a>
+- <a href="https://www.youtube.com/@chincho-chincho/playlists" target="_blank">Check my youtube channel</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
